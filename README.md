@@ -56,3 +56,6 @@ Send a POST request to the `/predict` endpoint with the following JSON structure
   "packet_size": 1500,
   "proto": "TCP"
 }
+```
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
