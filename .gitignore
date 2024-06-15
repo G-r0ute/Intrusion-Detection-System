@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+packets.csv
+features.csv
+packets.pcap
