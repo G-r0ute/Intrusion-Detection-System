@@ -50,10 +50,8 @@ This project implements an Intrusion Detection and Prevention System (IDS/IPS) u
 
 ## Usage
 ```json
-{
 Open a browser and go to http://127.0.0.1:5000/.
 Send a POST request to http://127.0.0.1:5000/predict with packet data to receive a classification.
-}
 ```
 Send a POST request to the `/predict` endpoint with the following JSON structure:
 ```json
