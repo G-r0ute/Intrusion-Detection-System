@@ -12,7 +12,7 @@ This project implements an Intrusion Detection and Prevention System (IDS/IPS) u
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/IDS_IPS_ML.git
+    git clone https://github.com/G-r0ute/Intrusion-Detection-System.git
     cd IDS_IPS_ML
     ```
 
